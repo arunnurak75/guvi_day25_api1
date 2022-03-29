@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+#style
+{
+color:rgb(226, 230, 11);
+font-style: italic;
+font-weight: bolder;
+}
+h1
+{
+    font-family: Lobster;
+}
